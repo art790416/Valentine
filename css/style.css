@@ -1,0 +1,203 @@
+body {
+    margin: 0;
+}
+
+img {
+    display: block;
+    width: 100%;
+    vertical-align: bottom;
+}
+
+.sec_01 {
+    background-image: url(../images_PC/valenPC_01.jpg);
+}
+
+.sec_02 {
+    background-image: url(../images_PC/valenPC_02.jpg);
+}
+
+.sec_03 {
+    background-image: url(../images_PC/valenPC_03.jpg);
+}
+
+.sec_04 {
+    background-image: url(../images_PC/valenPC_04.jpg);
+}
+
+.sec_05 {
+    background-image: url(../images_PC/valenPC_05.jpg);
+}
+
+.sec_06 {
+    background-image: url(../images_PC/valenPC_06.jpg);
+}
+
+.sec_07 {
+    background-image: url(../images_PC/valenPC_07.jpg);
+}
+
+.sec_08 {
+    background-image: url(../images_PC/valenPC_08.jpg);
+}
+
+.sec_09 {
+    background-image: url(../images_PC/valenPC_09.jpg);
+}
+
+.sec_10 {
+    background-image: url(../images_PC/valenPC_10.jpg);
+}
+
+.sec_11 {
+    background-image: url(../images_PC/valenPC_11.jpg);
+}
+
+.sec_12 {
+    background-image: url(../images_PC/valenPC_12.jpg);
+}
+
+.sec_13 {
+    background-image: url(../images_PC/valenPC_13.jpg);
+}
+
+.sec_14 {
+    background-image: url(../images_PC/valenPC_14.jpg);
+}
+
+.sec_15 {
+    background-image: url(../images_PC/valenPC_15.jpg);
+}
+
+.bg {
+    background-size: 1920px;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+
+.inner {
+    max-width: 1000px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.SPrwd {
+    display: none;
+}
+
+.heart {
+    position: absolute;
+    width: 35%;
+    top: 25%;
+    left: 62%;
+}
+
+.alloffer01 {
+    position: absolute;
+    width: 42%;
+    top: 39%;
+    left: 13%;
+}
+
+.alloffer02 {
+    position: absolute;
+    width: 42%;
+    top: 65%;
+    right: 13%;
+}
+
+.alloffer03 {
+    position: absolute;
+    width: 31%;
+    top: 91%;
+    left: 16%;
+}
+
+.alloffer04 {
+    position: absolute;
+    width: 31%;
+    top: 91%;
+    right: 9.5%;
+}
+
+.offer01_centerbtn {
+    position: absolute;
+    width: 72%;
+    top: 82%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.btn3020_01 {
+    position: absolute;
+    width: 23%;
+    top: 61.3%;
+    right: 1%;
+}
+
+.btn1060_01 {
+    position: absolute;
+    width: 23%;
+    top: 57%;
+    right: 1%;
+}
+
+.btn3020_02 {
+    position: absolute;
+    width: 23%;
+    top: 66.5%;
+    right: 1%;
+}
+
+.btn1060_02 {
+    position: absolute;
+    width: 23%;
+    top: 60%;
+    right: 1%;
+}
+
+.offer02_centerbtn {
+    position: absolute;
+    width: 72%;
+    top: 78.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.offer01btn {
+    position: absolute;
+    width: 72%;
+    top: 87%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.offer02btn {
+    position: absolute;
+    width: 72%;
+    top: 82%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.offer03btn {
+    position: absolute;
+    width: 35%;
+    top: 80%;
+    left: 14%;
+}
+
+.offer04btn {
+    position: absolute;
+    width: 35%;
+    top: 80%;
+    right: 7%;
+}
+
+@media (max-width: 1000px) {
+    .SP {
+        display: none;
+    }
+    .SPrwd {
+        display: block;
+    }
+}
